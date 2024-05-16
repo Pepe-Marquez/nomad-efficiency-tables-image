@@ -1,4 +1,4 @@
 nomad-measurements
 nomad-material-processing
 git+https://github.com/Pepe-Marquez/solar-cells-efficiecny-tables@41448f61dfa28b648a97e4a6f2e2bc0a155d01fe
-git+https://github.com/FAIRmat-NFDI/nomad-perovskite-solar-cells-database/tree/11-adoptt-src-and-plugin-templates@f49c7df94cb863086ee40c37f651a210f12a8d6c
+git+https://github.com/FAIRmat-NFDI/nomad-perovskite-solar-cells-database/11-adoptt-src-and-plugin-templates@f49c7df94cb863086ee40c37f651a210f12a8d6c
